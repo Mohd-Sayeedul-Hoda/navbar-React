@@ -294,3 +294,9 @@ nav {
 	color: var(--primary-500);
 	padding-left: 1.5rem;
 }
+
+/* 160 px */
+.links-container {
+	overflow: hidden;
+	transition: var(--transition);
+}
